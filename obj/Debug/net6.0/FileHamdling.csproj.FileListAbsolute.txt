@@ -1,0 +1,15 @@
+C:\Users\Treehays\Documents\CLH\Projects\FileHamdling\bin\Debug\net6.0\FileHamdling.exe
+C:\Users\Treehays\Documents\CLH\Projects\FileHamdling\bin\Debug\net6.0\FileHamdling.deps.json
+C:\Users\Treehays\Documents\CLH\Projects\FileHamdling\bin\Debug\net6.0\FileHamdling.runtimeconfig.json
+C:\Users\Treehays\Documents\CLH\Projects\FileHamdling\bin\Debug\net6.0\FileHamdling.dll
+C:\Users\Treehays\Documents\CLH\Projects\FileHamdling\bin\Debug\net6.0\FileHamdling.pdb
+C:\Users\Treehays\Documents\CLH\Projects\FileHamdling\obj\Debug\net6.0\FileHamdling.csproj.AssemblyReference.cache
+C:\Users\Treehays\Documents\CLH\Projects\FileHamdling\obj\Debug\net6.0\FileHamdling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Treehays\Documents\CLH\Projects\FileHamdling\obj\Debug\net6.0\FileHamdling.AssemblyInfoInputs.cache
+C:\Users\Treehays\Documents\CLH\Projects\FileHamdling\obj\Debug\net6.0\FileHamdling.AssemblyInfo.cs
+C:\Users\Treehays\Documents\CLH\Projects\FileHamdling\obj\Debug\net6.0\FileHamdling.csproj.CoreCompileInputs.cache
+C:\Users\Treehays\Documents\CLH\Projects\FileHamdling\obj\Debug\net6.0\FileHamdling.dll
+C:\Users\Treehays\Documents\CLH\Projects\FileHamdling\obj\Debug\net6.0\refint\FileHamdling.dll
+C:\Users\Treehays\Documents\CLH\Projects\FileHamdling\obj\Debug\net6.0\FileHamdling.pdb
+C:\Users\Treehays\Documents\CLH\Projects\FileHamdling\obj\Debug\net6.0\FileHamdling.genruntimeconfig.cache
+C:\Users\Treehays\Documents\CLH\Projects\FileHamdling\obj\Debug\net6.0\ref\FileHamdling.dll
